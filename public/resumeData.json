@@ -1,0 +1,30 @@
+{
+  "main": {
+    "name": "The A-Squad Vocals, Inc.",
+    "occupation": "Independent Recording Artists & Performers",
+    "image": "IG_Sonny.jpeg",
+    "bio": "The A-Squad is a collaboration of independent recording artists & performers, that have banded together to provide quality vocal support to other recording artists and performers",
+    "contactmessage": "If you need studio or live vocals please email",
+    "email": "asquadvocalsinc@gmail.com",
+    "phone": "(619)894-6349",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90035"
+    },
+    "website": "http://www.timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/theasquadvocalsinc",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/theasquadvocals",
+        "className": "fa fa-instagram"
+      }
+    ]
+  }
+}
